@@ -1,5 +1,5 @@
-streamlit==1.37.0
-stmol==0.0.9
-py3Dmol==2.0.4
-biotite==0.37.0
+streamlit
+py3Dmol
+git+https://github.com/napoles-uach/stmol.git
 requests
+
