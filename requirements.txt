@@ -1,6 +1,7 @@
 streamlit
-py3Dmol
+py3Dmol==2.0.0.post2
 git+https://github.com/napoles-uach/stmol.git
 requests
 biopython
+
 
